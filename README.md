@@ -18,9 +18,10 @@ This application can be opened with Insomnia. Each route can be run to view, upd
 ## Contributing
 To contribute to this project, the user can clone and create a branch of the repository, and add whatever changes they desire. The user can commit to github, and then create a pull request, after which I can view the changes and approve them.
 ## GitHub-repo
-[E-commerce-backend](https://github.com/ahooper00/E-commerce-back-end-ORM)
+[E-commerce-backend](https://github.com/ahooper00/E-commerce-back-end-ORM) | 
+[Video-link](https://drive.google.com/file/d/1_aM8sYf5qG4X20nEfvFlOwjVRvze79Is/view)
 ## Questions
-[My-github](ahooper00@github.com)
+[My-github](ahooper00@github.com) | 
 ahooper97@gmail.com
 ## Screenshots
 ![Screenshot-1](assets/screenshot-1.png)
